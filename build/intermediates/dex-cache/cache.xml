@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/apple/Documents/workspace/Rxjava/app/build/intermediates/pre-dexed/debug/retrofit-2.2.0_b6b47b47dc12599d2e5727d6d0e618f16043e953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.7/21734c0092a5d3c3ec99510e50c1ff76bdf0c65a/rxjava-2.0.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="21734c0092a5d3c3ec99510e50c1ff76bdf0c65a">
+        <dex dex="/Users/apple/Documents/workspace/Rxjava/app/build/intermediates/pre-dexed/debug/rxjava-2.0.7_047066ab504c036b20a5da5e73cdcecdc1b732e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/apple/Documents/workspace/Rxjava/app/build/intermediates/pre-dexed/debug/converter-gson-2.2.0_946c31338f7c14ad001c7886ec4fe44622c3e4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.2.0/d80514b6f44f0c4c6234e2d67fea783a25e77275/adapter-rxjava-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d80514b6f44f0c4c6234e2d67fea783a25e77275">
+        <dex dex="/Users/apple/Documents/workspace/Rxjava/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.2.0_f6e21b4d59b76790d7c636e006d33ea5b1038d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8/rxjava-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="/Users/apple/Documents/workspace/Rxjava/app/build/intermediates/pre-dexed/debug/rxjava-1.2.0_a7e143eaa04a454f53c44ee72345a3bc9949dbc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/apple/Documents/workspace/Rxjava/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_0457bfe765c05283624d74633d462621ed847b72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/apple/Documents/workspace/Rxjava/app/build/intermediates/pre-dexed/debug/okio-1.11.0_719d75bff7f29173c2bd223e293554edf98972da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/apple/Documents/workspace/Rxjava/app/build/intermediates/pre-dexed/debug/gson-2.7_4a9ab15c92577da9a73fa10142117b795593146b.jar" />
+    </item>
+
+</items>
